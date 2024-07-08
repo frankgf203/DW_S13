@@ -1,0 +1,13 @@
+*{
+    font-family: arial;
+}
+icono{
+    margin: 0px;
+    padding: 0;
+}
+icono li{
+    float: left;
+}
+ul{
+    list-style-type: none; 
+}
